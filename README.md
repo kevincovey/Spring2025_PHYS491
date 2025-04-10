@@ -5,6 +5,6 @@ resources for a spring 2025 PHYS 491 reading group learning about the latest res
 
 ### Schedule
 
-| Week of | Reading | Coding | Mentoring Activity |
-| _______ | _______ | ______ | __________________ |
+| Week of | Reading | Coding | Mentoring Activity | 
+| _______ | _______ | ______ | __________________ | 
 | Apr. 14 | Section 1 | [Postage Stamps Notebook](https://github.com/kevincovey/Spring2025_PHYS491/blob/main/cluster_review/postage_stamps.ipynb) | TBD |
