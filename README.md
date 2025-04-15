@@ -10,7 +10,7 @@ resources for a spring 2025 PHYS 491 reading group learning about the latest res
 
 | Day | Readings (for Plan A) | Python Notebook | Mentoring Activity | 
 | --- | --- | --- | --- | 
-| Apr. 16 | N/A |  |  |
+| Apr. 16 | [Ten Rules for Reading a Scientific Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/pdf/pcbi.1008032.pdf) | N/A | N/A |
 | Apr. 23 | Section 1 | [Postage Stamps Notebook](https://github.com/kevincovey/Spring2025_PHYS491/blob/main/cluster_review/postage_stamps.ipynb) | TBD |
 | Apr. 30 | Section 2-2.3 | [Color Evolution Notebook](https://github.com/kevincovey/Spring2025_PHYS491/blob/main/cluster_review/color_evol.ipynb) | TBD |
 | May 7 | Section 2.4-2.7 | [Mass Radius Notebook](https://github.com/kevincovey/Spring2025_PHYS491/blob/main/cluster_review/mass_radius.ipynb) | TBD |
